@@ -8,7 +8,6 @@ I'm particularly interested in:
 
 * 🧠 Neuroscience & neural engineering
 * 🧬 Biomaterials & tissue engineering
-* 🩺 Biomedical signal processing
 * 💻 Healthcare software & intelligent clinical systems
 * 🔬 Computational biomedical research
 
@@ -49,7 +48,6 @@ Exploring how mechanically dynamic biomaterials could influence neuronal activit
 
 **Biomedical Engineering**
 
-* Biomedical Signal Processing
 * Biomaterials
 * Neural Engineering
 * Proteomics
@@ -71,7 +69,6 @@ Exploring how mechanically dynamic biomaterials could influence neuronal activit
 🤖 AI for Healthcare
 🫀 Computational Medicine
 🧪 Tissue Engineering
-📊 Biomedical Signal Processing
 
 ---
 
@@ -86,10 +83,6 @@ A sensor-based rehabilitation system designed to support stroke rehabilitation t
 🔹 **Microplastic Detection using IR Spectroscopy**
 Exploring spectroscopy-based detection of microplastics using Nile Red fluorescence and computational analysis.
 
-🔹 **Biomedical Signal Processing Projects**
-Exploring digital filters, FIR systems, sampling, multirate signal processing and biomedical applications.
-
----
 
 ## 📈 Currently Learning
 
